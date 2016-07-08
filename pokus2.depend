@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1442775521 source:/home/ghibulo/Dropbox/programovani/ansiC++/pokus2/pok.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+
+1451386786 source:/home/ghibulo/Dropbox/programovani/ansiC++/matysrdce/pok.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<cmath>
+
